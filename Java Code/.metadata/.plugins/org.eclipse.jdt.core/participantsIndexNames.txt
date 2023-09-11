@@ -1,0 +1,27 @@
+INDEX VERSION 1.132
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2621824603.index
+\JSTLDemo\src\main\java
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2073226914.index
+\JSP and Servlets\src\main\java
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\656577742.index
+\BusinessQueryManagemet\src\main\resources
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1410460030.index
+\SalesPipelineManagementSystem\src\main\java
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3946100481.index
+\Testing\src\main\java
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2101848815.index
+\BusinessQuerySalepipelineManagement\src\main\java
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2654005923.index
+\BusinessQueryManagement\src\main\java
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1164647260.index
+\Business Query Management\src\main\java
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2614354573.index
+\Login _page_using_jsp\src\main\java
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3159448726.index
+\Login_user_Page_with_DB\src\main\java
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\961962733.index
+\CreatingAloginPage\src\main\java
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4209930256.index
+\BusinessQueryManagement\src\main\resources
+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2331035718.index
+\CurdOperationOnDB\src\main\java

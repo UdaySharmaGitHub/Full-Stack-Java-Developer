@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/*- footer -*/
+.footer{
+	display: flex;
+   justify-content: center;
+   align-items: center;
+}
+div .row a{
+	text-decoration: none;
+	color: black;
+	font-weight: 400;
+}
+
+.social-media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+gap: 10px ;
+height: 50px;
+width:150px;
+}
+.social-media >a{
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+}
+.bxl-gmail{
+	color: red;
+}
+.bxl-linkedin{
+	color: #0A6EBD;
+}
+.bxl-instagram{
+   color:#40128B;
+}
+.bxl-github{
+	color: black;
+}
+
+

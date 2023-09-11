@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.udaysharma.Demo_Servlet&apos; to &apos;DemoServlet&apos;&#x0D;&#x0A;- Original project: &apos;JSTLDemo&apos;&#x0D;&#x0A;- Original element: &apos;com.udaysharma.Demo_Servlet&apos;&#x0D;&#x0A;- Renamed element: &apos;com.udaysharma.DemoServlet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Demo_Servlet&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.udaysharma{Demo_Servlet.java[Demo_Servlet" matchStrategy="1" name="DemoServlet" qualified="false" references="true" similarDeclarations="false" stamp="1680450677109" textual="false" version="1.0"/>
+</session>

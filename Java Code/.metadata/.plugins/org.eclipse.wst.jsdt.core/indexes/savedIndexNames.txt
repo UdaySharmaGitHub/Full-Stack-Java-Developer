@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+C:\Users\arnav\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2233981928.index
+3321513216.index
+855818466.index
+2786276955.index
+2750967718.index
+3476241051.index
+321520126.index
+942668920.index
+3591895966.index

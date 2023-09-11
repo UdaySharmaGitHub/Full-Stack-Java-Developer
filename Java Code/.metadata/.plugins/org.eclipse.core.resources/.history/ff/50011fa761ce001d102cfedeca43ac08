@@ -1,0 +1,39 @@
+package com.udaysharma;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+//import java.io.PrintWriter;
+@WebServlet("/add")
+//import javax.servlet.ServletException;
+//import javax.servlet.http.HttpServlet;
+//import javax.servlet.http.HttpServletRequest;
+//import javax.servlet.*;
+public class AddServlets extends HttpServlet {
+	// we have to make two objects 1) Request 2) Response objects
+	// using request we can fetch data from the user 
+	//and using response object we can give the response
+	public  void doGet(HttpServletRequest req,HttpServletResponse resp) throws IOException, ServletException {
+	// we need to convert the String into integer
+	int i=Integer.parseInt(req.getParameter("num1"));
+	int j=Integer.parseInt(req.getParameter("num2"));
+	// performing the add operation
+	int k=i+j;
+//	PrintWriter out=resp.getWriter();
+//	out.println("<html><body bgcolor='color'>");
+//	out.println("Output : "+k);
+//	out.println("</body></html>");
+//   k=k*k;
+  // we can call the servlet we have to method 
+   // 1) Request Dispatcher 
+   // 2) redirecting
+ // using the request dispatcher
+//	req.setAttribute("k", k);
+//   RequestDispatcher rd=req.getRequestDispatcher("sq");
+//   rd.forward(req, resp);   
+	}
+}

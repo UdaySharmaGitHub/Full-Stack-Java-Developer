@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Diffrent_states_in_multithreading.java&apos; to &apos;ThreadState.java&apos;&#x0D;&#x0A;- Original project: &apos;MultiThreadin_in_java&apos;&#x0D;&#x0A;- Original element: &apos;Diffrent_states_in_multithreading.java&apos;&#x0D;&#x0A;- Renamed element: &apos;ThreadState.java&apos;" description="Rename compilation unit &apos;Diffrent_states_in_multithreading.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Diffrent_states_in_multithreading.java" name="ThreadState.java" references="false" stamp="1681227793207" version="1.0"/>
+</session>
